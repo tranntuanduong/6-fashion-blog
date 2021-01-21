@@ -198,9 +198,14 @@ html {
 
 /* Container - blogs */
 .blogs {
+    
+}
+
+.blog-item {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    margin-top: 20px;
     padding: 12px 24px;
     background-color: #ffffff;
-    top: 0;
 }
 
 .blog-item__heading {
@@ -355,7 +360,7 @@ html {
 /* Aside  */
 
 .aside {
-    margin-top: 16px;
+    margin-top: 20px;
 }
 
 .aside-heading {
@@ -371,6 +376,8 @@ html {
 .author {
     background-color: #000000;
     color: #ffffff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
 }
 
 .author__img {
@@ -397,6 +404,8 @@ html {
 /* Post popular  */
 .popular-post {
     background-color: #ffffff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
 }
 
 .popular-content {
@@ -432,6 +441,8 @@ html {
 .advertise__content {
     padding: 16px;
     background-color: #ffffff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
 }
 
 .advertise__content .ad {
@@ -442,6 +453,8 @@ html {
 .tags__content {
     background-color: #ffffff;
     padding: 16px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
 }
 
 .tags__content-item {
@@ -467,6 +480,8 @@ html {
 .inspiration__content {
     background-color: #ffffff;
     padding: 8px 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
 }
 
 .inspiration__content img {
@@ -479,6 +494,7 @@ html {
     padding: 10px 10px;
     display: flex;
     justify-content: space-around;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
 .social__content a {
@@ -496,6 +512,8 @@ html {
 .subscribe__content {
     background-color: #ffffff;
     padding: 16px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
 }
 
 .subscribe__content p {
